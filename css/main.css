@@ -1,0 +1,97 @@
+@font-face{
+    font-family: 'Releway';
+    font-weight: 300;
+    src: url("/fonts/Raleway-VariableFont_wght.ttf");
+}
+@font-face{
+    font-family: 'RelewayBlack';
+    font-weight: 300;
+    src: url("/fonts/Raleway-Black.ttf");
+}
+body{
+    font-family: 'Releway';
+}
+.containerr{
+    padding: 12px;
+}
+.sectionn{
+    border: 1px solid #dedede;
+    height: 327px;
+    width: 99%;
+}
+h1{
+    color: #3a79c5;
+}
+.person{
+    margin-left: -12px;
+}
+.titlee{
+    font-family: 'RelewayBlack';
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.first .smalll , .middle .smalll{
+    font-size: 11px !important;
+    font-weight: 800;
+    padding: 4px 25px;
+    margin-top: 12px;
+    margin-bottom: 14px;
+    color: #fff;
+    background-color: rgb(39, 116, 39);
+}
+.last .smalll{
+    font-size: 11px !important;
+    font-weight: 800;
+    padding: 4px 25px;
+    margin-top: 12px;
+    margin-bottom: 14px;
+    color: #fff;
+    
+}
+.textt{
+    font-size: 13px;
+    font-weight: 600;
+    color: #716f6f;
+}
+.info{
+    width: 175px;
+    margin-top: 109px;
+    font-weight: 900;
+}
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding-top: 6px;
+    width: 99%;
+    height: 35px;
+    background-color: #2162af ;
+    color: #fff;
+    margin-top: -1px;
+    z-index: 5;
+}
+
+.footer .right{
+    height: 35px !important;
+    margin-left: -5px;
+}
+.middle{
+    margin: 0px;
+}
+.third-row{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: #777171;
+    margin-top: 7px;
+}
+.middle .info{
+    width: 175px;
+    margin-top: 30px;
+    font-weight: 900;
+}
+.last .info{
+    width: 175px;
+    margin-top: 49px;
+    font-weight: 900;
+}
